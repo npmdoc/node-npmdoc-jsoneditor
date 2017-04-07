@@ -1,74 +1,74 @@
 <svg height="1134" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1134" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-07 04:25:11 +0000  5544529 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-07 04:25:11 +0000      602 byte  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-07 04:25:11 +0000    19476 byte  HISTORY.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-07 04:25:11 +0000    10171 byte  LICENSE</tspan>
-<tspan x="10" y="90">  4.  2017-04-07 04:25:11 +0000      614 byte  NOTICE</tspan>
-<tspan x="10" y="106">  5.  2017-04-07 04:25:11 +0000     4489 byte  README.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-07 04:25:11 +0000    35955 byte  dist/img/jsoneditor-icons.svg</tspan>
-<tspan x="10" y="138">  7.  2017-04-07 04:25:11 +0000   330492 byte  dist/jsoneditor-minimalist.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-07 04:25:11 +0000   137438 byte  dist/jsoneditor-minimalist.map</tspan>
-<tspan x="10" y="170">  9.  2017-04-07 04:25:11 +0000   163982 byte  dist/jsoneditor-minimalist.min.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-07 04:25:11 +0000    21089 byte  dist/jsoneditor.css</tspan>
-<tspan x="10" y="202"> 11.  2017-04-07 04:25:11 +0000  1255958 byte  dist/jsoneditor.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-07 04:25:11 +0000  1302700 byte  dist/jsoneditor.js.map</tspan>
-<tspan x="10" y="234"> 13.  2017-04-07 04:25:11 +0000   662535 byte  dist/jsoneditor.map</tspan>
-<tspan x="10" y="250"> 14.  2017-04-07 04:25:11 +0000    17543 byte  dist/jsoneditor.min.css</tspan>
-<tspan x="10" y="266"> 15.  2017-04-07 04:25:11 +0000   619117 byte  dist/jsoneditor.min.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-07 04:26:43 +0000  5544529 byte  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-07 04:26:43 +0000      602 byte  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-07 04:26:43 +0000    19476 byte  HISTORY.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-07 04:26:43 +0000    10171 byte  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-07 04:26:43 +0000      614 byte  NOTICE</tspan>
+<tspan x="10" y="106">  5.  2017-04-07 04:26:43 +0000     4489 byte  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-07 04:26:43 +0000    35955 byte  dist/img/jsoneditor-icons.svg</tspan>
+<tspan x="10" y="138">  7.  2017-04-07 04:26:43 +0000   330492 byte  dist/jsoneditor-minimalist.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-07 04:26:43 +0000   137438 byte  dist/jsoneditor-minimalist.map</tspan>
+<tspan x="10" y="170">  9.  2017-04-07 04:26:43 +0000   163982 byte  dist/jsoneditor-minimalist.min.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-07 04:26:43 +0000    21089 byte  dist/jsoneditor.css</tspan>
+<tspan x="10" y="202"> 11.  2017-04-07 04:26:43 +0000  1255958 byte  dist/jsoneditor.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-07 04:26:43 +0000  1302700 byte  dist/jsoneditor.js.map</tspan>
+<tspan x="10" y="234"> 13.  2017-04-07 04:26:43 +0000   662535 byte  dist/jsoneditor.map</tspan>
+<tspan x="10" y="250"> 14.  2017-04-07 04:26:43 +0000    17543 byte  dist/jsoneditor.min.css</tspan>
+<tspan x="10" y="266"> 15.  2017-04-07 04:26:43 +0000   619117 byte  dist/jsoneditor.min.js</tspan>
 <tspan x="10" y="282">ls: cannot access dist/which: No such file or directory</tspan>
 <tspan x="10" y="298">ls: cannot access files: No such file or directory</tspan>
 <tspan x="10" y="314">ls: cannot access do: No such file or directory</tspan>
 <tspan x="10" y="330">ls: cannot access I: No such file or directory</tspan>
 <tspan x="10" y="346">ls: cannot access need.md: No such file or directory</tspan>
-<tspan x="10" y="362"> 16.  2017-04-07 04:25:11 +0000   619117 byte  dist/which files do I need.md</tspan>
-<tspan x="10" y="378"> 17.  2017-04-07 04:25:11 +0000     8394 byte  docs/api.md</tspan>
-<tspan x="10" y="394"> 18.  2017-04-07 04:25:11 +0000     1527 byte  docs/shortcut_keys.md</tspan>
-<tspan x="10" y="410"> 19.  2017-04-07 04:25:11 +0000     2506 byte  docs/usage.md</tspan>
-<tspan x="10" y="426"> 20.  2017-04-07 04:25:11 +0000     1054 byte  examples/01_basic_usage.html</tspan>
-<tspan x="10" y="442"> 21.  2017-04-07 04:25:11 +0000      767 byte  examples/02_viewer.html</tspan>
-<tspan x="10" y="458"> 22.  2017-04-07 04:25:11 +0000     1471 byte  examples/03_switch_mode.html</tspan>
-<tspan x="10" y="474"> 23.  2017-04-07 04:25:11 +0000     1995 byte  examples/04_load_and_save.html</tspan>
-<tspan x="10" y="490"> 24.  2017-04-07 04:25:11 +0000     1323 byte  examples/05_custom_fields_editable.html</tspan>
-<tspan x="10" y="506"> 25.  2017-04-07 04:25:11 +0000     1149 byte  examples/06_custom_styling.html</tspan>
-<tspan x="10" y="522"> 26.  2017-04-07 04:25:11 +0000     1554 byte  examples/07_json_schema_validation.html</tspan>
-<tspan x="10" y="538"> 27.  2017-04-07 04:25:11 +0000     1707 byte  examples/08_custom_ace.html</tspan>
-<tspan x="10" y="554"> 28.  2017-04-07 04:25:11 +0000     1756 byte  examples/css/darktheme.css</tspan>
-<tspan x="10" y="570"> 29.  2017-04-07 04:25:11 +0000      473 byte  examples/requirejs_demo/requirejs_demo.html</tspan>
-<tspan x="10" y="586"> 30.  2017-04-07 04:25:11 +0000      646 byte  examples/requirejs_demo/scripts/main.js</tspan>
-<tspan x="10" y="602"> 31.  2017-04-07 04:25:11 +0000    15197 byte  examples/requirejs_demo/scripts/require.js</tspan>
-<tspan x="10" y="618"> 32.  2017-04-07 04:25:11 +0000     4842 byte  gulpfile.js</tspan>
-<tspan x="10" y="634"> 33.  2017-04-07 04:25:11 +0000       49 byte  index.js</tspan>
-<tspan x="10" y="650"> 34.  2017-04-07 04:25:11 +0000     2670 byte  package.json</tspan>
-<tspan x="10" y="666"> 35.  2017-04-07 04:25:11 +0000     7071 byte  src/css/contextmenu.css</tspan>
-<tspan x="10" y="682"> 36.  2017-04-07 04:25:11 +0000      291 byte  src/css/img/description.txt</tspan>
-<tspan x="10" y="698"> 37.  2017-04-07 04:25:11 +0000    35955 byte  src/css/img/jsoneditor-icons.svg</tspan>
-<tspan x="10" y="714"> 38.  2017-04-07 04:25:11 +0000     9425 byte  src/css/jsoneditor.css</tspan>
-<tspan x="10" y="730"> 39.  2017-04-07 04:25:11 +0000     2569 byte  src/css/menu.css</tspan>
-<tspan x="10" y="746"> 40.  2017-04-07 04:25:11 +0000      489 byte  src/css/reset.css</tspan>
-<tspan x="10" y="762"> 41.  2017-04-07 04:25:11 +0000     1577 byte  src/css/searchbox.css</tspan>
+<tspan x="10" y="362"> 16.  2017-04-07 04:26:43 +0000   619117 byte  dist/which files do I need.md</tspan>
+<tspan x="10" y="378"> 17.  2017-04-07 04:26:43 +0000     8394 byte  docs/api.md</tspan>
+<tspan x="10" y="394"> 18.  2017-04-07 04:26:43 +0000     1527 byte  docs/shortcut_keys.md</tspan>
+<tspan x="10" y="410"> 19.  2017-04-07 04:26:43 +0000     2506 byte  docs/usage.md</tspan>
+<tspan x="10" y="426"> 20.  2017-04-07 04:26:43 +0000     1054 byte  examples/01_basic_usage.html</tspan>
+<tspan x="10" y="442"> 21.  2017-04-07 04:26:43 +0000      767 byte  examples/02_viewer.html</tspan>
+<tspan x="10" y="458"> 22.  2017-04-07 04:26:43 +0000     1471 byte  examples/03_switch_mode.html</tspan>
+<tspan x="10" y="474"> 23.  2017-04-07 04:26:43 +0000     1995 byte  examples/04_load_and_save.html</tspan>
+<tspan x="10" y="490"> 24.  2017-04-07 04:26:43 +0000     1323 byte  examples/05_custom_fields_editable.html</tspan>
+<tspan x="10" y="506"> 25.  2017-04-07 04:26:43 +0000     1149 byte  examples/06_custom_styling.html</tspan>
+<tspan x="10" y="522"> 26.  2017-04-07 04:26:43 +0000     1554 byte  examples/07_json_schema_validation.html</tspan>
+<tspan x="10" y="538"> 27.  2017-04-07 04:26:43 +0000     1707 byte  examples/08_custom_ace.html</tspan>
+<tspan x="10" y="554"> 28.  2017-04-07 04:26:43 +0000     1756 byte  examples/css/darktheme.css</tspan>
+<tspan x="10" y="570"> 29.  2017-04-07 04:26:43 +0000      473 byte  examples/requirejs_demo/requirejs_demo.html</tspan>
+<tspan x="10" y="586"> 30.  2017-04-07 04:26:43 +0000      646 byte  examples/requirejs_demo/scripts/main.js</tspan>
+<tspan x="10" y="602"> 31.  2017-04-07 04:26:43 +0000    15197 byte  examples/requirejs_demo/scripts/require.js</tspan>
+<tspan x="10" y="618"> 32.  2017-04-07 04:26:43 +0000     4842 byte  gulpfile.js</tspan>
+<tspan x="10" y="634"> 33.  2017-04-07 04:26:43 +0000       49 byte  index.js</tspan>
+<tspan x="10" y="650"> 34.  2017-04-07 04:26:43 +0000     2670 byte  package.json</tspan>
+<tspan x="10" y="666"> 35.  2017-04-07 04:26:43 +0000     7071 byte  src/css/contextmenu.css</tspan>
+<tspan x="10" y="682"> 36.  2017-04-07 04:26:43 +0000      291 byte  src/css/img/description.txt</tspan>
+<tspan x="10" y="698"> 37.  2017-04-07 04:26:43 +0000    35955 byte  src/css/img/jsoneditor-icons.svg</tspan>
+<tspan x="10" y="714"> 38.  2017-04-07 04:26:43 +0000     9425 byte  src/css/jsoneditor.css</tspan>
+<tspan x="10" y="730"> 39.  2017-04-07 04:26:43 +0000     2569 byte  src/css/menu.css</tspan>
+<tspan x="10" y="746"> 40.  2017-04-07 04:26:43 +0000      489 byte  src/css/reset.css</tspan>
+<tspan x="10" y="762"> 41.  2017-04-07 04:26:43 +0000     1577 byte  src/css/searchbox.css</tspan>
 <tspan x="10" y="778">ls: cannot access src/docs/which: No such file or directory</tspan>
 <tspan x="10" y="794">ls: cannot access files: No such file or directory</tspan>
 <tspan x="10" y="810">ls: cannot access do: No such file or directory</tspan>
 <tspan x="10" y="826">ls: cannot access I: No such file or directory</tspan>
 <tspan x="10" y="842">ls: cannot access need.md: No such file or directory</tspan>
-<tspan x="10" y="858"> 42.  2017-04-07 04:25:11 +0000     1577 byte  src/docs/which files do I need.md</tspan>
-<tspan x="10" y="874"> 43.  2017-04-07 04:25:11 +0000    13325 byte  src/js/ContextMenu.js</tspan>
-<tspan x="10" y="890"> 44.  2017-04-07 04:25:11 +0000     1847 byte  src/js/Highlighter.js</tspan>
-<tspan x="10" y="906"> 45.  2017-04-07 04:25:11 +0000     6800 byte  src/js/History.js</tspan>
-<tspan x="10" y="922"> 46.  2017-04-07 04:25:11 +0000    11981 byte  src/js/JSONEditor.js</tspan>
-<tspan x="10" y="938"> 47.  2017-04-07 04:25:11 +0000     2827 byte  src/js/ModeSwitcher.js</tspan>
-<tspan x="10" y="954"> 48.  2017-04-07 04:25:11 +0000    93953 byte  src/js/Node.js</tspan>
-<tspan x="10" y="970"> 49.  2017-04-07 04:25:11 +0000     8564 byte  src/js/SearchBox.js</tspan>
-<tspan x="10" y="986"> 50.  2017-04-07 04:25:11 +0000      155 byte  src/js/ace/index.js</tspan>
-<tspan x="10" y="1002"> 51.  2017-04-07 04:25:11 +0000     4640 byte  src/js/ace/theme-jsoneditor.js</tspan>
-<tspan x="10" y="1018"> 52.  2017-04-07 04:25:11 +0000     6257 byte  src/js/appendNodeFactory.js</tspan>
-<tspan x="10" y="1034"> 53.  2017-04-07 04:25:11 +0000      576 byte  src/js/assets/jsonlint/README.md</tspan>
-<tspan x="10" y="1050"> 54.  2017-04-07 04:25:11 +0000    15545 byte  src/js/assets/jsonlint/jsonlint.js</tspan>
-<tspan x="10" y="1066"> 55.  2017-04-07 04:25:11 +0000     1011 byte  src/js/header.js</tspan>
-<tspan x="10" y="1082"> 56.  2017-04-07 04:25:11 +0000    13665 byte  src/js/textmode.js</tspan>
-<tspan x="10" y="1098"> 57.  2017-04-07 04:25:11 +0000    32005 byte  src/js/treemode.js</tspan>
-<tspan x="10" y="1114"> 58.  2017-04-07 04:25:11 +0000    22066 byte  src/js/util.js</tspan>
+<tspan x="10" y="858"> 42.  2017-04-07 04:26:43 +0000     1577 byte  src/docs/which files do I need.md</tspan>
+<tspan x="10" y="874"> 43.  2017-04-07 04:26:43 +0000    13325 byte  src/js/ContextMenu.js</tspan>
+<tspan x="10" y="890"> 44.  2017-04-07 04:26:43 +0000     1847 byte  src/js/Highlighter.js</tspan>
+<tspan x="10" y="906"> 45.  2017-04-07 04:26:43 +0000     6800 byte  src/js/History.js</tspan>
+<tspan x="10" y="922"> 46.  2017-04-07 04:26:43 +0000    11981 byte  src/js/JSONEditor.js</tspan>
+<tspan x="10" y="938"> 47.  2017-04-07 04:26:43 +0000     2827 byte  src/js/ModeSwitcher.js</tspan>
+<tspan x="10" y="954"> 48.  2017-04-07 04:26:43 +0000    93953 byte  src/js/Node.js</tspan>
+<tspan x="10" y="970"> 49.  2017-04-07 04:26:43 +0000     8564 byte  src/js/SearchBox.js</tspan>
+<tspan x="10" y="986"> 50.  2017-04-07 04:26:43 +0000      155 byte  src/js/ace/index.js</tspan>
+<tspan x="10" y="1002"> 51.  2017-04-07 04:26:43 +0000     4640 byte  src/js/ace/theme-jsoneditor.js</tspan>
+<tspan x="10" y="1018"> 52.  2017-04-07 04:26:43 +0000     6257 byte  src/js/appendNodeFactory.js</tspan>
+<tspan x="10" y="1034"> 53.  2017-04-07 04:26:43 +0000      576 byte  src/js/assets/jsonlint/README.md</tspan>
+<tspan x="10" y="1050"> 54.  2017-04-07 04:26:43 +0000    15545 byte  src/js/assets/jsonlint/jsonlint.js</tspan>
+<tspan x="10" y="1066"> 55.  2017-04-07 04:26:43 +0000     1011 byte  src/js/header.js</tspan>
+<tspan x="10" y="1082"> 56.  2017-04-07 04:26:43 +0000    13665 byte  src/js/textmode.js</tspan>
+<tspan x="10" y="1098"> 57.  2017-04-07 04:26:43 +0000    32005 byte  src/js/treemode.js</tspan>
+<tspan x="10" y="1114"> 58.  2017-04-07 04:26:43 +0000    22066 byte  src/js/util.js</tspan>
 </text>
 </svg>
