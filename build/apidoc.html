@@ -51,7 +51,7 @@
 
         href="https://github.com/josdejong/jsoneditor"
 
-    >jsoneditor (v5.5.11)</a>
+    >jsoneditor (v5.6.0)</a>
 </h1>
 <h4>A web-based tool to view, edit, format, and validate JSON</h4>
 <div class="apidocSectionDiv"><a
@@ -61,75 +61,12 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.jsoneditor">module jsoneditor</a><ol>
 
-        <li>
-
-            <a class="apidocElementLiA" href="#apidoc.element.jsoneditor.registerMode">
-            function <span class="apidocSignatureSpan">jsoneditor.</span>registerMode
-            <span class="apidocSignatureSpan">(mode)</span>
-            </a>
-
-        </li>
-
-        <li>
-
-            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">jsoneditor.</span>modes</span>
-
-        </li>
-
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.jsoneditor" id="apidoc.module.jsoneditor">module jsoneditor</a></h1>
-
-
-    <h2>
-        <a href="#apidoc.element.jsoneditor.registerMode" id="apidoc.element.jsoneditor.registerMode">
-        function <span class="apidocSignatureSpan">jsoneditor.</span>registerMode
-        <span class="apidocSignatureSpan">(mode)</span>
-        </a>
-    </h2>
-    <ul>
-    <li>description and source-code<pre class="apidocCodePre">registerMode = function (mode) {
-  var i, prop;
-
-  if (util.isArray(mode)) {
-    // multiple modes
-    for (i = 0; i &#x3c; mode.length; i++) {
-      JSONEditor.registerMode(mode[i]);
-    }
-  }
-  else {
-    // validate the new mode
-    if (!(&#x27;mode&#x27; in mode)) throw new Error(&#x27;Property &#x22;mode&#x22; missing&#x27;);
-    if (!(&#x27;mixin&#x27; in mode)) throw new Error(&#x27;Property &#x22;mixin&#x22; missing&#x27;);
-    if (!(&#x27;data&#x27; in mode)) throw new Error(&#x27;Property &#x22;data&#x22; missing&#x27;);
-    var name = mode.mode;
-    if (name in JSONEditor.modes) {
-      throw new Error(&#x27;Mode &#x22;&#x27; + name + &#x27;&#x22; already registered&#x27;);
-    }
-
-    // validate the mixin
-    if (typeof mode.mixin.create !== &#x27;function&#x27;) {
-      throw new Error(&#x27;Required function &#x22;create&#x22; missing on mixin&#x27;);
-    }
-    var reserved = [&#x27;setMode&#x27;, &#x27;registerMode&#x27;, &#x27;modes&#x27;];
-    for (i = 0; i &#x3c; reserved.length; i++) {
-      prop = reserved[i];
-      if (prop in mode.mixin) {
-        throw new Error(&#x27;Reserved property &#x22;&#x27; + prop + &#x27;&#x22; not allowed in mixin&#x27;);
-      }
-    }
-
-    JSONEditor.modes[name] = mode;
-  }
-}</pre></li>
-    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
-    </ul>
-
-
-
 
 </div>
 
