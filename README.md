@@ -1,6 +1,6 @@
 # npmdoc-jsoneditor
 
-#### api documentation for  [jsoneditor (v5.6.0)](https://github.com/josdejong/jsoneditor)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsoneditor.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsoneditor) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsoneditor.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsoneditor)
+#### basic api documentation for  [jsoneditor (v5.6.0)](https://github.com/josdejong/jsoneditor)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsoneditor.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsoneditor) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsoneditor.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsoneditor)
 
 #### A web-based tool to view, edit, format, and validate JSON
 
@@ -76,7 +76,8 @@
         "viewer",
         "formatter"
     ],
-    "version": "5.6.0"
+    "version": "5.6.0",
+    "bin": {}
 }
 ```
 
